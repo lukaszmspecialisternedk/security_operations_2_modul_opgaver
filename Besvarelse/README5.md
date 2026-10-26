@@ -1,12 +1,12 @@
-# Module 5
+# Module 5 : Integration
 
-## 1.
+1. ## Tilgå serveren via domænenavn med cURL og verificere:
 
-## 2.
+## 2\. Capture hele udvekslingen i WireShark:
 
-## 3.
+## 3\. Illustrere gennemgang med et diagram:
 
-## 4.
+## 5\. Bilag
 
-## 5. Bilag
 Projektstyring:
+
