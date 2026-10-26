@@ -1,6 +1,6 @@
 # Module 5 : Integration
 
-1. ## Tilgå serveren via domænenavn med cURL og verificere:
+## 1\. Tilgå serveren via domænenavn med cURL og verificere:
 
 ## 2\. Capture hele udvekslingen i WireShark:
 
