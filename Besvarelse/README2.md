@@ -1,6 +1,6 @@
 # Module 2: DNS
 
-1. ## Skriv et script der konstruere og sender en DNS forspørgsel over UDP
+## 1\. Skriv et script der konstruere og sender en DNS forspørgsel over UDP
 
 ## 2\. Konfigurere en lokal navnopløsning i VM, så den peger på localhost:
 
