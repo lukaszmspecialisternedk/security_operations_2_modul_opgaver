@@ -47,12 +47,15 @@ Del. 10:
 ## 2\. Konfigurere en lokal navnopløsning i VM, så den peger på localhost:
 
 Opretter en entre og peger 127.0.0.1 på "network.test":
+
 <img width="341" height="279" alt="Skærmbillede 2026-11-01 230711" src="https://github.com/user-attachments/assets/d402e17f-d574-42fb-8623-62d274673bba" />
 
 Tjekker indholdet af /etc/hosts er i orden:
+
 <img width="348" height="282" alt="Skærmbillede 2026-11-01 230741" src="https://github.com/user-attachments/assets/6ca0e46f-edd3-486a-92ce-f2c374536ada" />
 
 Genstarter systemd-hostnamed med den entre for at sikre navnopløsningen er aktiv og kører:
+
 <img width="335" height="275" alt="Skærmbillede 2026-11-01 231321" src="https://github.com/user-attachments/assets/03ac098b-aa50-47bf-8b7f-cb5df20e09f0" />
 
 <img width="340" height="280" alt="Skærmbillede 2026-11-01 231347" src="https://github.com/user-attachments/assets/ec71a7de-7f18-4930-afaa-449c74607e87" />
