@@ -2,7 +2,7 @@
 
 ## 1\. Skriv et script der konstruere og sender en DNS forspørgsel over UDP
 
-Screencaps af indholdet i "simple_dns_resolver_client.py" scriptet:
+Screencaps af indholdet i "simple_dns_resolver_client.py" scriptet (uden importerede pre-made DNS resolver libraries):
 
 Del. 1:
 
