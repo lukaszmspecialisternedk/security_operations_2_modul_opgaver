@@ -62,6 +62,18 @@ Genstarter systemd-hostnamed med den entre for at sikre navnopløsningen er akti
 
 ## 3\. Undersøg recodtyperne A, CNAME, MX, TXT og NS - forklar deres formål:
 
+Beskrivelse af recordtyperne:
+
+A: Denne recordtype vedrøre domænet's IPv4 addresse (i kontrast til AAAA, som gælder for dens IPv6 adresse). 
+
+CNAME: Betyder "canonical name". Det er det læselige "alias" (domæne) for IP adressen.
+
+MX: Er en forkortelse for "Mail exchange". Det kan henvise til at domænet/serveren anvendes til afsende og modtage emails.
+
+TXT: Er synonymt for "text". Det er forskelligt information omkring domænet der ofte benyttes til verificering (SPF,DKIM m.m). Kan også være en kilde til andet menneskeligt læsebart information.
+
+NS: Henviser til "Name server". Denne recordtype peger på de name servers der er autorative for domænet.
+
 ## 4\. Opfang et DNS opslag i WireShark og identificere query, response, transaktion-ID og TTL: 
 
 ## 5\. Bilag
